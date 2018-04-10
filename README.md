@@ -1,4 +1,4 @@
-# salesforce-dx-pipeline-sample
+# salesforce-dx-pipeline-sample.
 
 Using this sample app and the resources in this repo, you can setup a Heroku Pipeline to drive CI / CD for Salesforce DX. This sample uses the [salesforce-dx-buildpack](https://github.com/wadewegner/salesforce-dx-buildpack) and the [salesforce-cli-buildpack](https://github.com/wadewegner/salesforce-cli-buildpack).
 
