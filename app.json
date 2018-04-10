@@ -2,13 +2,13 @@
   "name": "salesforce-dx-pipeline-sample",
   "version": "0.0.1",
   "description": "Test application for the salesforce-dx-buildpack",
-  "repository": "https://github.com/wadewegner/salesforce-dx-pipeline-sample",
+  "repository": "https://github.com/shariatululoom/salesforce-dx-pipeline-mdapi-sample",
   "author": "",
   "license": "ALv2",
   "bugs": {
     "url": "https://github.com/wadewegner/salesforce-dx-pipeline-sample/issues"
   },
-  "homepage": "https://github.com/wadewegner/salesforce-dx-pipeline-sample#readme",
+  "homepage": "https://github.com/shariatululoom/salesforce-dx-pipeline-mdapi-sample#readme",
   "dependencies": {},
   "devDependencies": {},
   "buildpacks": [{
