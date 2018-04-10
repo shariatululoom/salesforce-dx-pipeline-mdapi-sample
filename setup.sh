@@ -29,7 +29,7 @@ DEV_HUB_USERNAME="skms@devhub.com"
 DEV_USERNAME="skms@cognizant.com"
 
 STAGING_USERNAME="practice@odc.com"
-PROD_USERNAME="saurabh.tripathi4@testinghubdev.com"
+PROD_USERNAME="practice@odc.com"
 
 # Repository with your code
 GITHUB_REPO="https://github.com/shariatululoom/salesforce-dx-pipeline-mdapi-sample.git"
