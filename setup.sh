@@ -22,16 +22,16 @@ HEROKU_STAGING_APP_NAME="staging$TICKS"
 HEROKU_PROD_APP_NAME="prod$TICKS"
 
 # Pipeline
-HEROKU_PIPELINE_NAME="pipeline$TICKS"
+HEROKU_PIPELINE_NAME="pipelineskms"
 
 # Usernames or aliases of the orgs you're using
-DEV_HUB_USERNAME="HubOrg"
-DEV_USERNAME="DevOrg"
-STAGING_USERNAME="TestOrg"
-PROD_USERNAME="ProdOrg"
+DEV_HUB_USERNAME="skms@devhub.com"
+DEV_USERNAME="skms@cognizant.com"
+STAGING_USERNAME="practice@odc.com"
+PROD_USERNAME="saurabh.tripathi4@testinghubdev.com"
 
 # Repository with your code
-GITHUB_REPO="wadewegner/salesforce-dx-pipeline-sample"
+GITHUB_REPO="https://github.com/shariatululoom/salesforce-dx-pipeline-mdapi-sample.git"
 
 ### Setup script
 
